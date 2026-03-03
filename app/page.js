@@ -21,7 +21,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="w-full py-10 border-t border-white/5 text-center text-slate-500 text-sm">
-        <p>© {new Date().getFullYear()} saad Portfolio. Built with Next.js & Framer Motion.</p>
+        <p>© {new Date().getFullYear()}  Portfolio. Built with Next.js & Framer Motion.</p>
       </footer>
     </div>
   );
